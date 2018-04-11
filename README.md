@@ -1,4 +1,4 @@
-
+ 
 # Project setup with Typescript support using Vue-cli
 
 ## Pre-requisites
@@ -11,7 +11,7 @@
 1) Run the following command 
 
 ```
-npx -p @vue/cli vue create _my-app_ 
+npx -p @vue/cli vue create *my-app* 
 ```
 2)
 
