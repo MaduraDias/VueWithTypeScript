@@ -11,7 +11,7 @@
 1) Run the following command 
 
 ```
-npx -p @vue/cli vue create * my-app * 
+npx -p @vue/cli vue create _my-app_ 
 ```
 2)
 
