@@ -3,3 +3,8 @@
 follow the steps in
 (https://medium.com/@almeynman/setup-vue-with-storybook-using-vue-cli-3-0-typescript-example-1be64a7cc7ac)
 
+Type following command to run
+
+```
+npm run serve
+```
